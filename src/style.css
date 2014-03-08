@@ -1,0 +1,15 @@
+table#table_map{
+  background-color : #000000 ;
+  width  : <?php echo ($nCol*$w) ; ?>px ;
+  height : <?php echo ($nRow*$h) ; ?>px ;
+  border-collapse : collapse ;
+}
+td.map{
+  width  : <?php echo $w ; ?>px ;
+  height : <?php echo $h ; ?>px ;
+  padding : 0px ;
+}
+img.map{
+  margin : 0px ;
+  display : block ;
+}

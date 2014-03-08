@@ -1,0 +1,15 @@
+This page shows the map for my favourite game as a child, Citadel, published by Superior Software for the BBC Micro.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/citadel/">Live page</a>
+<a href="https://github.com/aidansean/citadel">GitHub repository</a>
+
+<h3>Overview</h3>
+
+One day I intend to write a computer game inspired by Citadel.  It has some novel gameplay features which I haven't seen replicated since.
+
+<h3>Challenges</h3>
+
+<dl>
+</dl>
