@@ -8,8 +8,3 @@ This page shows the map for my favourite game as a child, Citadel, published by 
 <h3>Overview</h3>
 
 One day I intend to write a computer game inspired by Citadel.  It has some novel gameplay features which I haven't seen replicated since.
-
-<h3>Challenges</h3>
-
-<dl>
-</dl>
